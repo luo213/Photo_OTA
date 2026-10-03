@@ -1,0 +1,9 @@
+# ---- OTA 远程控制面 (设备端每轮检查更新时一并抓取) ----
+# 直接在 GitHub 网页上改这个文件就能遥控设备; 改完约 1~2 分钟生效。
+# auto_apply=1 发现新版直接安装重启, 不再弹窗问用户
+# force=1 强制重装(无视版本号), 必须配一个新的 request_id 才生效
+auto_apply=0
+force=0
+request_id=
+target=
+note=
