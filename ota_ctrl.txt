@@ -6,4 +6,4 @@ auto_apply=1
 force=0
 request_id=
 target=
-note=V0.69 首次开启主动推送
+note=V0.71 起控制面真正生效
